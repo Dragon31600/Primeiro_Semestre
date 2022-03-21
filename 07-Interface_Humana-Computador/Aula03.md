@@ -1,4 +1,4 @@
-# Dia 18/03 - Aula 3 de IHC
+# Dia 11/03 - Aula 8 → Aula 3 de IHC
 
 Quando algo é intuitivo, ele é intuitivo pra quem? pra que contexto? pra que situação? Se o perfil que vc planejou pra esses 3 casos estiver com dificuldades de operar a sua aplicação, a culpa é sua. 
 
