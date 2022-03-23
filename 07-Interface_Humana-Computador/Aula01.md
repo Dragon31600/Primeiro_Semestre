@@ -1,4 +1,4 @@
-# Dia 25/02 - Aula 3 → Aula 1 de Interface Humano-Computador
+# Dia 25/02 - Aula 1 de Interface Humano-Computador
 
 Como a aula é com o professor Eduardo, não houve necessidade de apresentação do professor, ou da classe, havendo apenas uma aula normal, em formato de conversa com a classe, a respeito, no geral, sobre o que é a aula e o que será debatido no futuro. Também houve a participação durante 20 minutos do nosso coordenador, Avelino, em que ele explicou como funciona a parte digital (online) do curso, a APS e a ED. As explicações dadas pelo Avelino estarão disponíveis aqui e no Discord. Anotação da aula:
 
